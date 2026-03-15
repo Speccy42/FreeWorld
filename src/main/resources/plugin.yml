@@ -1,0 +1,4 @@
+name: FreeWorld
+version: '${project.version}'
+main: fr.speccy.freeworld.FreeWorld
+author: Speccy
